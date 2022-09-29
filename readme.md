@@ -6,6 +6,20 @@
 
 https://forkify-aleksandar-milosheski.netlify.app/
 
+## Screenshots
+* Home Page :
+![App Screenshot](https://user-images.githubusercontent.com/58518192/72606801-7ebe0680-3949-11ea-8e88-613f022a64e5.gif)
+* Tour Details :
+![App Screenshot](https://user-images.githubusercontent.com/58518192/72606859-a0b78900-3949-11ea-8f0d-ef44c789957b.gif)
+* Payment Process :
+![App Screenshot](https://user-images.githubusercontent.com/58518192/72606973-d9eff900-3949-11ea-9a2e-f84a6581bef3.gif)
+* Booked Tours :
+![App Screenshot](https://user-images.githubusercontent.com/58518192/72607747-6a7b0900-394b-11ea-8b9f-5330531ca2eb.png)
+* User Profile :
+![App Screenshot](https://user-images.githubusercontent.com/58518192/72607635-44edff80-394b-11ea-8943-64c48f6f19aa.png)
+* Admin Profile :
+![App Screenshot](https://user-images.githubusercontent.com/58518192/72607648-4d463a80-394b-11ea-972f-a73160cfaa5b.png)
+
 # Key Features
 
 * Authentication and Authorization - Login and logout
